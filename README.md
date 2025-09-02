@@ -2,10 +2,10 @@
 
 I am an early career ecologist and educator interested in phenotypic plasticity, mutualistic interactions, rapid environmental change, and plant-animal interactions. I teach various undergraduate courses in biology and am passionate about increasing data literacy in STEM courses and decolonizing curriculum.
 
-![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bcavazos&langs_count=6&theme=vision-friendly-dark&layout=compact)
 
 <!--
 **bcavazos/bcavazos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bcavazos&langs_count=6&theme=vision-friendly-dark&layout=compact)
 
 Here are some ideas to get you started:
 
